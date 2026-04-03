@@ -54,6 +54,8 @@ This project is an IoT-based smart home system that monitors environmental condi
 
 ## Images
 <img width="775" height="425" alt="Screenshot 2026-04-03 171826" src="https://github.com/user-attachments/assets/aac27413-ce53-4fbe-99a9-d5d2ee592ee5" />
-![z7687872064297_d485fe1f74a0fbeb3cc424617e08fd9a](https://github.com/user-attachments/assets/ba5cff4a-3170-4c61-9dd9-9553b349fb48)
+
+![z7687872064297_d485fe1f74a0fbeb3cc424617e08fd9a](https://github.com/user-attachments/assets/8e67a07f-177f-43e9-aa37-209492f0798a)
+
 
 
