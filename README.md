@@ -50,7 +50,7 @@ This project is an IoT-based smart home system that monitors environmental condi
 - Data is sent via Serial (UART) every 2 seconds
 
 ## Demo
-[[(Add your video link here)](https://youtube.com/shorts/zodNpcUi9LI?feature=share)](https://youtube.com/shorts/zodNpcUi9LI)
+[[(link here)](https://youtube.com/shorts/zodNpcUi9LI?feature=share)]
 
 ## Images
 <img width="775" height="425" alt="Screenshot 2026-04-03 171826" src="https://github.com/user-attachments/assets/aac27413-ce53-4fbe-99a9-d5d2ee592ee5" />
